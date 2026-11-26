@@ -1,0 +1,36 @@
+INTERFACE 3 4
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All     9376     9376        0        0
+ 10     2817     2817        0        0
+ 11     6559     6559        0        0
+INTERFACE 4 3
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All     9376     9376        0        0
+ 10     2817     2817        0        0
+ 11     6559     6559        0        0
+INTERFACE 5 4
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All     9376     9376        0        0
+ 10     2817     2817        0        0
+ 11     6559     6559        0        0
+INTERFACE 4 5
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All     9376     9376        0        0
+ 10     2817     2817        0        0
+ 11     6559     6559        0        0

@@ -1,0 +1,46 @@
+OK: 266 hashes SHA-256.
+OK: 40 execuções, conservação UDP registada, estatísticas recalculadas,
+    semente 7 coerente com o resumo, capacidade e quotas de C.4.
+Esta verificação confere os dados compactos; a auditoria pacote a pacote exige os traces.
+OK: semente 7, A_droptail: métricas e conservação conferidas.
+OK: semente 7, A_red: métricas e conservação conferidas.
+OK: semente 7, B_misto: métricas e conservação conferidas.
+OK: semente 7, B_referencia: métricas e conservação conferidas.
+OK: semente 7, C_diffserv: métricas e conservação conferidas.
+OK: semente 7, C4_normal: métricas e conservação conferidas.
+OK: semente 7, C4_livre: métricas e conservação conferidas.
+OK: semente 7, C4_abuso: métricas e conservação conferidas.
+OK: semente 11, A_droptail: métricas e conservação conferidas.
+OK: semente 11, A_red: métricas e conservação conferidas.
+OK: semente 11, B_misto: métricas e conservação conferidas.
+OK: semente 11, B_referencia: métricas e conservação conferidas.
+OK: semente 11, C_diffserv: métricas e conservação conferidas.
+OK: semente 11, C4_normal: métricas e conservação conferidas.
+OK: semente 11, C4_livre: métricas e conservação conferidas.
+OK: semente 11, C4_abuso: métricas e conservação conferidas.
+OK: semente 23, A_droptail: métricas e conservação conferidas.
+OK: semente 23, A_red: métricas e conservação conferidas.
+OK: semente 23, B_misto: métricas e conservação conferidas.
+OK: semente 23, B_referencia: métricas e conservação conferidas.
+OK: semente 23, C_diffserv: métricas e conservação conferidas.
+OK: semente 23, C4_normal: métricas e conservação conferidas.
+OK: semente 23, C4_livre: métricas e conservação conferidas.
+OK: semente 23, C4_abuso: métricas e conservação conferidas.
+OK: semente 41, A_droptail: métricas e conservação conferidas.
+OK: semente 41, A_red: métricas e conservação conferidas.
+OK: semente 41, B_misto: métricas e conservação conferidas.
+OK: semente 41, B_referencia: métricas e conservação conferidas.
+OK: semente 41, C_diffserv: métricas e conservação conferidas.
+OK: semente 41, C4_normal: métricas e conservação conferidas.
+OK: semente 41, C4_livre: métricas e conservação conferidas.
+OK: semente 41, C4_abuso: métricas e conservação conferidas.
+OK: semente 97, A_droptail: métricas e conservação conferidas.
+OK: semente 97, A_red: métricas e conservação conferidas.
+OK: semente 97, B_misto: métricas e conservação conferidas.
+OK: semente 97, B_referencia: métricas e conservação conferidas.
+OK: semente 97, C_diffserv: métricas e conservação conferidas.
+OK: semente 97, C4_normal: métricas e conservação conferidas.
+OK: semente 97, C4_livre: métricas e conservação conferidas.
+OK: semente 97, C4_abuso: métricas e conservação conferidas.
+OK: 40 traces, séries da semente 7 e todos os NAM gzip íntegros.
+Auditoria concluída sem modificar os resultados.

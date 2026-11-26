@@ -1,0 +1,249 @@
+{
+  "execucoes": [
+    {
+      "seed": 7,
+      "scenario": "A_droptail",
+      "trace_sha256": "2d8e09485ff36f95613c042fb07a3ab7655dd634d7a1e4700a3df51d42c1f918",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 7,
+      "scenario": "A_red",
+      "trace_sha256": "170c1da6e58b50fe152a7190fbf0cfa70942354e9680fb14f96b4ae6062e2940",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 7,
+      "scenario": "B_misto",
+      "trace_sha256": "46b3898c3da4d70f945ff419b6529544db02dbcc3b525946f7c00464d2ff1331",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 7,
+      "scenario": "B_referencia",
+      "trace_sha256": "fdcf00eda0a92ce6d4adc2524a5c7db8a04678fb8ed23394293db2a7afbb22f8",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 7,
+      "scenario": "C_diffserv",
+      "trace_sha256": "953084fe3416944c930bb07936a16f7f302b97470d311d5330429e0801832463",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 7,
+      "scenario": "C4_normal",
+      "trace_sha256": "e6b7d03b9615bf0e67dd2002f736a13bd1254a62ec2af3663705abadd08e6287",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 7,
+      "scenario": "C4_livre",
+      "trace_sha256": "3057fa3187e86b0fc9fcf628697a11fa197bdd6f339aff60a00440f9bf081b65",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 7,
+      "scenario": "C4_abuso",
+      "trace_sha256": "17c89fa847ce519d0a28c4a90f57e8e23f1acf48213bd66c681908c166901f5b",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 11,
+      "scenario": "A_droptail",
+      "trace_sha256": "2d8e09485ff36f95613c042fb07a3ab7655dd634d7a1e4700a3df51d42c1f918",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 11,
+      "scenario": "A_red",
+      "trace_sha256": "1a232a8c6bd0f108036c98a06a5fa8cbea54070159b739bf4d084f7dd4f22aaa",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 11,
+      "scenario": "B_misto",
+      "trace_sha256": "59bef3325cd8bdc0a8a862ca1f54efe0320dca71413d2ba2ab6fc49dd01b7232",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 11,
+      "scenario": "B_referencia",
+      "trace_sha256": "e017a3a64d88cd9dc1b1d0ef5c1637a1c3b976566b741c285f9bd42c4a19da26",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 11,
+      "scenario": "C_diffserv",
+      "trace_sha256": "48de7eeb775dd467f38e926981649e5424cb7c4197ff050cf04134dd1ff8a986",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 11,
+      "scenario": "C4_normal",
+      "trace_sha256": "d545644d58ed677906d22605e4230374cdc8c6bedfdc0f9862e9114fda815d0d",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 11,
+      "scenario": "C4_livre",
+      "trace_sha256": "3057fa3187e86b0fc9fcf628697a11fa197bdd6f339aff60a00440f9bf081b65",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 11,
+      "scenario": "C4_abuso",
+      "trace_sha256": "fb08faee58af891aef60f085eba512bb3633ddef7c2cd4915808a8d6b6f92e0e",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 23,
+      "scenario": "A_droptail",
+      "trace_sha256": "2d8e09485ff36f95613c042fb07a3ab7655dd634d7a1e4700a3df51d42c1f918",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 23,
+      "scenario": "A_red",
+      "trace_sha256": "b55a21f9041cdbc673814cbcc594d91e0d2210512e4521e95ff2282e67394519",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 23,
+      "scenario": "B_misto",
+      "trace_sha256": "7307cf5cae7d681fbed67ffa2c165f803a898b7c42f07407ec13dfc89f3308cb",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 23,
+      "scenario": "B_referencia",
+      "trace_sha256": "c7471a3ccf187514c9acd3f82071d26c584c20269029c06f56703b9626ce234a",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 23,
+      "scenario": "C_diffserv",
+      "trace_sha256": "88f48b6484e748b62a5a0f47bdd1bdd85968ca535fd7abd8098d821d4011f3bc",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 23,
+      "scenario": "C4_normal",
+      "trace_sha256": "0476a6a7a1670339197a8b00e987eda1f829165a31323eac24cf3e5720ffe104",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 23,
+      "scenario": "C4_livre",
+      "trace_sha256": "3057fa3187e86b0fc9fcf628697a11fa197bdd6f339aff60a00440f9bf081b65",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 23,
+      "scenario": "C4_abuso",
+      "trace_sha256": "71ce9f5afeb08eb77ca5361ce67f61d4a6b781b92453a013f46862bf21b2f15c",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 41,
+      "scenario": "A_droptail",
+      "trace_sha256": "2d8e09485ff36f95613c042fb07a3ab7655dd634d7a1e4700a3df51d42c1f918",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 41,
+      "scenario": "A_red",
+      "trace_sha256": "1bf2cbed81a59e8365689739e1083aa921ad0a4d7ad76b718c2a4433055b180c",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 41,
+      "scenario": "B_misto",
+      "trace_sha256": "1441d7cb82c49cb98e9ea524b9e502b8fbec652eb4c9322dfc3f185e29258482",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 41,
+      "scenario": "B_referencia",
+      "trace_sha256": "38e05e9afff3aa7811cbfdc150a88e37daf6acd2887785d6c5e4875152b28067",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 41,
+      "scenario": "C_diffserv",
+      "trace_sha256": "b6975da627be551d61c27b5051fc28a9f4a294735ee80ee7d7c9dd1b64b868a9",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 41,
+      "scenario": "C4_normal",
+      "trace_sha256": "1dcdec9d26482f662c97ac89eaecc74027576a8840e7090d30264714140ff7af",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 41,
+      "scenario": "C4_livre",
+      "trace_sha256": "3057fa3187e86b0fc9fcf628697a11fa197bdd6f339aff60a00440f9bf081b65",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 41,
+      "scenario": "C4_abuso",
+      "trace_sha256": "58254253d2afff2d5788cb9324b3d6157d6643b252487e927465aa2bc60bd16e",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 97,
+      "scenario": "A_droptail",
+      "trace_sha256": "2d8e09485ff36f95613c042fb07a3ab7655dd634d7a1e4700a3df51d42c1f918",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 97,
+      "scenario": "A_red",
+      "trace_sha256": "373a92394d33f0a023206c00bd2719f0bf2cea2e67e03b2494a34c928229239f",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 97,
+      "scenario": "B_misto",
+      "trace_sha256": "2cae28fa4634aaf24c5202e27b61b406dd21082f7f6eb1c76fc6fa66193003a8",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 97,
+      "scenario": "B_referencia",
+      "trace_sha256": "fe2f7014540c4ebab690f1345579f55dbca795b27948bc164d7d9e6f40e52e03",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 97,
+      "scenario": "C_diffserv",
+      "trace_sha256": "a8b83eb8b28505ecfe3836ae7e3d0204ec1e4914f3069b36bb9f98e43e173304",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 97,
+      "scenario": "C4_normal",
+      "trace_sha256": "68cbed98eebf418c49201236c6584a0b6f344dfcd2c50f64d1f833fc3db7dc7e",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 97,
+      "scenario": "C4_livre",
+      "trace_sha256": "3057fa3187e86b0fc9fcf628697a11fa197bdd6f339aff60a00440f9bf081b65",
+      "reproduzido_identico": true
+    },
+    {
+      "seed": 97,
+      "scenario": "C4_abuso",
+      "trace_sha256": "fab50a97a3219d570ff442dafee0716c50dbc68eda007cd9c73c97b48a1b476e",
+      "reproduzido_identico": true
+    }
+  ],
+  "numero_execucoes": 40,
+  "resumos_identicos": true,
+  "originais_preservados": true,
+  "pdf_submetido_inalterado": true,
+  "texto_pdf_recompilado_identico": true
+}

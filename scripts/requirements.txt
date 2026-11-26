@@ -1,0 +1,2 @@
+# Versão usada para os gráficos entregues; o simulador executa em Docker.
+matplotlib==3.10.7

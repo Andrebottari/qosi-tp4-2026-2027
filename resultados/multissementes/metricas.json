@@ -1,0 +1,7463 @@
+[
+  {
+    "seed": 7,
+    "scenario": "A_droptail",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 7,
+    "scenario": "A_droptail",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 7,
+    "scenario": "A_droptail",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 7,
+    "scenario": "A_droptail",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 7,
+    "scenario": "A_droptail",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 124.91666666666393
+  },
+  {
+    "seed": 7,
+    "scenario": "A_droptail",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 374.99999999998454
+  },
+  {
+    "seed": 7,
+    "scenario": "A_droptail",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 7,
+    "scenario": "A_droptail",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 7,
+    "scenario": "A_droptail",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 7,
+    "scenario": "A_droptail",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 7,
+    "scenario": "A_droptail",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 7,
+    "scenario": "A_droptail",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 7,
+    "scenario": "A_droptail",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 124.91666666666393
+  },
+  {
+    "seed": 7,
+    "scenario": "A_droptail",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 374.99999999998454
+  },
+  {
+    "seed": 7,
+    "scenario": "A_droptail",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 7,
+    "scenario": "A_droptail",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 7,
+    "scenario": "A_red",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 1676000.0000000487
+  },
+  {
+    "seed": 7,
+    "scenario": "A_red",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1650666.6666667124
+  },
+  {
+    "seed": 7,
+    "scenario": "A_red",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1673333.3333333817
+  },
+  {
+    "seed": 7,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1666666.6666667142
+  },
+  {
+    "seed": 7,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1665333.3333333808
+  },
+  {
+    "seed": 7,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1668000.0000000477
+  },
+  {
+    "seed": 7,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 166.50000000000145
+  },
+  {
+    "seed": 7,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 166.91666666666816
+  },
+  {
+    "seed": 7,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 166.4166666666681
+  },
+  {
+    "seed": 7,
+    "scenario": "A_red",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1672666.666666715
+  },
+  {
+    "seed": 7,
+    "scenario": "A_red",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1652000.0000000459
+  },
+  {
+    "seed": 7,
+    "scenario": "A_red",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 1675333.333333382
+  },
+  {
+    "seed": 7,
+    "scenario": "A_red",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1666000.0000000475
+  },
+  {
+    "seed": 7,
+    "scenario": "A_red",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1665333.3333333808
+  },
+  {
+    "seed": 7,
+    "scenario": "A_red",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1668666.6666667145
+  },
+  {
+    "seed": 7,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1672666.666666715
+  },
+  {
+    "seed": 7,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1652000.0000000459
+  },
+  {
+    "seed": 7,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 1675333.333333382
+  },
+  {
+    "seed": 7,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 165.91666666666805
+  },
+  {
+    "seed": 7,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 168.50000000000168
+  },
+  {
+    "seed": 7,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 165.8333333333347
+  },
+  {
+    "seed": 7,
+    "scenario": "A_red",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1668666.6666667145
+  },
+  {
+    "seed": 7,
+    "scenario": "A_red",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1664666.666666714
+  },
+  {
+    "seed": 7,
+    "scenario": "A_red",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1666666.6666667142
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2983999.999999891
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1471253.3333333095
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 20266.666666666675
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2961999.999999896
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1725013.333333281
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 21013.33333333335
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "ack",
+    "value": 55173.33333333189
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 3.4166666666666683
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 0.5833333333333333
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "exp",
+    "value": 0.08333333333333333
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "ack",
+    "value": 3.333333333333335
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "ack",
+    "value": 66186.6666666644
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2985333.333333224
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1471253.3333333095
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 20373.333333333343
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2961999.999999896
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1724319.9999999478
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 21013.33333333335
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "ack",
+    "value": 55039.99999999857
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "ack",
+    "value": 66266.66666666442
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2985999.9999998906
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1471946.6666666428
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 20373.333333333343
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "ack",
+    "value": 0.41666666666666663
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1.666666666666666
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1.4166666666666663
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 6,
+    "type": "exp",
+    "value": 0.25
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 21013.33333333335
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1723626.6666666146
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2962666.6666665627
+  },
+  {
+    "seed": 7,
+    "scenario": "B_referencia",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2995999.9999998882
+  },
+  {
+    "seed": 7,
+    "scenario": "B_referencia",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1883093.3333332634
+  },
+  {
+    "seed": 7,
+    "scenario": "B_referencia",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 20586.66666666668
+  },
+  {
+    "seed": 7,
+    "scenario": "B_referencia",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2999333.333333221
+  },
+  {
+    "seed": 7,
+    "scenario": "B_referencia",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1878933.3333332639
+  },
+  {
+    "seed": 7,
+    "scenario": "B_referencia",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 21440.000000000022
+  },
+  {
+    "seed": 7,
+    "scenario": "B_referencia",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "ack",
+    "value": 72239.99999999884
+  },
+  {
+    "seed": 7,
+    "scenario": "B_referencia",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "ack",
+    "value": 72079.9999999988
+  },
+  {
+    "seed": 7,
+    "scenario": "B_referencia",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2997333.3333332213
+  },
+  {
+    "seed": 7,
+    "scenario": "B_referencia",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1881706.666666597
+  },
+  {
+    "seed": 7,
+    "scenario": "B_referencia",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 20586.66666666668
+  },
+  {
+    "seed": 7,
+    "scenario": "B_referencia",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2997333.3333332213
+  },
+  {
+    "seed": 7,
+    "scenario": "B_referencia",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1881706.666666597
+  },
+  {
+    "seed": 7,
+    "scenario": "B_referencia",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 21333.333333333354
+  },
+  {
+    "seed": 7,
+    "scenario": "B_referencia",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "ack",
+    "value": 72053.33333333214
+  },
+  {
+    "seed": 7,
+    "scenario": "B_referencia",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "ack",
+    "value": 72239.99999999884
+  },
+  {
+    "seed": 7,
+    "scenario": "B_referencia",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 7,
+    "scenario": "B_referencia",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1878933.3333332639
+  },
+  {
+    "seed": 7,
+    "scenario": "B_referencia",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 20693.333333333347
+  },
+  {
+    "seed": 7,
+    "scenario": "B_referencia",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 21333.333333333354
+  },
+  {
+    "seed": 7,
+    "scenario": "B_referencia",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1883093.3333332634
+  },
+  {
+    "seed": 7,
+    "scenario": "B_referencia",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2995333.3333332217
+  },
+  {
+    "seed": 7,
+    "scenario": "C_diffserv",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 2408000.000000025
+  },
+  {
+    "seed": 7,
+    "scenario": "C_diffserv",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1295333.3333333377
+  },
+  {
+    "seed": 7,
+    "scenario": "C_diffserv",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1296666.6666666712
+  },
+  {
+    "seed": 7,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2438000.000000018
+  },
+  {
+    "seed": 7,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1309333.3333333393
+  },
+  {
+    "seed": 7,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1252666.666666666
+  },
+  {
+    "seed": 7,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 70.16666666666704
+  },
+  {
+    "seed": 7,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 211.33333333333988
+  },
+  {
+    "seed": 7,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 218.50000000000736
+  },
+  {
+    "seed": 7,
+    "scenario": "C_diffserv",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1296666.6666666712
+  },
+  {
+    "seed": 7,
+    "scenario": "C_diffserv",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1296000.0000000044
+  },
+  {
+    "seed": 7,
+    "scenario": "C_diffserv",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 2407333.3333333586
+  },
+  {
+    "seed": 7,
+    "scenario": "C_diffserv",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2437333.3333333516
+  },
+  {
+    "seed": 7,
+    "scenario": "C_diffserv",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1308666.6666666726
+  },
+  {
+    "seed": 7,
+    "scenario": "C_diffserv",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1253999.9999999995
+  },
+  {
+    "seed": 7,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1296000.0000000044
+  },
+  {
+    "seed": 7,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1296000.0000000044
+  },
+  {
+    "seed": 7,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 2408000.000000025
+  },
+  {
+    "seed": 7,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 212.9166666666734
+  },
+  {
+    "seed": 7,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 213.00000000000674
+  },
+  {
+    "seed": 7,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 74.00000000000016
+  },
+  {
+    "seed": 7,
+    "scenario": "C_diffserv",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1253999.9999999995
+  },
+  {
+    "seed": 7,
+    "scenario": "C_diffserv",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1309333.3333333393
+  },
+  {
+    "seed": 7,
+    "scenario": "C_diffserv",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2436666.666666685
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_normal",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1723333.3333333875
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_normal",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1640666.6666667112
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_normal",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1636000.000000044
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 1733333.3333333887
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1638000.0000000442
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1628666.6666667098
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 161.83333333333425
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 169.58333333333513
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 171.00000000000196
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_normal",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1723333.3333333875
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_normal",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1640666.6666667112
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_normal",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1636000.000000044
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_normal",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 1733333.3333333887
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_normal",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1638000.0000000442
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_normal",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1628666.6666667098
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1722666.6666667208
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1641333.333333378
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1636000.000000044
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 163.25000000000108
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 169.41666666666845
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 170.00000000000185
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_normal",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1628666.6666667098
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_normal",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1638000.0000000442
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_normal",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 1733333.3333333887
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_livre",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_livre",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_livre",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_livre",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_livre",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_livre",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_abuso",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_abuso",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_abuso",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_abuso",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_abuso",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_abuso",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_abuso",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 314.9999999999982
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_abuso",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_abuso",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_abuso",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_abuso",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_abuso",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_abuso",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_abuso",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_abuso",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_abuso",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_abuso",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 315.0833333333315
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_abuso",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_abuso",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_abuso",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 11,
+    "scenario": "A_droptail",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 11,
+    "scenario": "A_droptail",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 11,
+    "scenario": "A_droptail",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 11,
+    "scenario": "A_droptail",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 11,
+    "scenario": "A_droptail",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 124.91666666666393
+  },
+  {
+    "seed": 11,
+    "scenario": "A_droptail",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 374.99999999998454
+  },
+  {
+    "seed": 11,
+    "scenario": "A_droptail",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 11,
+    "scenario": "A_droptail",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 11,
+    "scenario": "A_droptail",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 11,
+    "scenario": "A_droptail",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 11,
+    "scenario": "A_droptail",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 11,
+    "scenario": "A_droptail",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 11,
+    "scenario": "A_droptail",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 124.91666666666393
+  },
+  {
+    "seed": 11,
+    "scenario": "A_droptail",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 374.99999999998454
+  },
+  {
+    "seed": 11,
+    "scenario": "A_droptail",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 11,
+    "scenario": "A_droptail",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 11,
+    "scenario": "A_red",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 1674000.0000000484
+  },
+  {
+    "seed": 11,
+    "scenario": "A_red",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1661333.3333333803
+  },
+  {
+    "seed": 11,
+    "scenario": "A_red",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1664666.666666714
+  },
+  {
+    "seed": 11,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1658000.0000000466
+  },
+  {
+    "seed": 11,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1656666.666666713
+  },
+  {
+    "seed": 11,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1685333.333333383
+  },
+  {
+    "seed": 11,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 168.1666666666683
+  },
+  {
+    "seed": 11,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 167.66666666666825
+  },
+  {
+    "seed": 11,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 164.16666666666785
+  },
+  {
+    "seed": 11,
+    "scenario": "A_red",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1664666.666666714
+  },
+  {
+    "seed": 11,
+    "scenario": "A_red",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1661333.3333333803
+  },
+  {
+    "seed": 11,
+    "scenario": "A_red",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 1674000.0000000484
+  },
+  {
+    "seed": 11,
+    "scenario": "A_red",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1658000.0000000466
+  },
+  {
+    "seed": 11,
+    "scenario": "A_red",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1656666.666666713
+  },
+  {
+    "seed": 11,
+    "scenario": "A_red",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1685333.333333383
+  },
+  {
+    "seed": 11,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1664000.0000000473
+  },
+  {
+    "seed": 11,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1660666.6666667135
+  },
+  {
+    "seed": 11,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 1675333.333333382
+  },
+  {
+    "seed": 11,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 167.25000000000153
+  },
+  {
+    "seed": 11,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 167.25000000000153
+  },
+  {
+    "seed": 11,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 165.66666666666802
+  },
+  {
+    "seed": 11,
+    "scenario": "A_red",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1685333.333333383
+  },
+  {
+    "seed": 11,
+    "scenario": "A_red",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1657333.3333333798
+  },
+  {
+    "seed": 11,
+    "scenario": "A_red",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1657333.3333333798
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 3003999.9999998864
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1630026.666666625
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 19093.33333333333
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2963333.333333229
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1520479.9999999707
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 15359.999999999969
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "ack",
+    "value": 61893.33333333128
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 5.333333333333331
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1.0
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "exp",
+    "value": 0.08333333333333333
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "ack",
+    "value": 3.000000000000001
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "ack",
+    "value": 59226.66666666485
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 3003999.9999998864
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1628639.9999999586
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 19093.33333333333
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2960666.666666563
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1523253.3333333037
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 15253.333333333303
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "ack",
+    "value": 61759.999999997955
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "ack",
+    "value": 59173.333333331524
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 3005333.3333332194
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1627253.333333292
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 19093.33333333333
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "ack",
+    "value": 0.16666666666666666
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 0.8333333333333334
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1.333333333333333
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 6,
+    "type": "exp",
+    "value": 0.08333333333333333
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 15146.666666666637
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1524639.9999999702
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2959333.33333323
+  },
+  {
+    "seed": 11,
+    "scenario": "B_referencia",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 3001999.999999887
+  },
+  {
+    "seed": 11,
+    "scenario": "B_referencia",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1878933.3333332639
+  },
+  {
+    "seed": 11,
+    "scenario": "B_referencia",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 19199.999999999996
+  },
+  {
+    "seed": 11,
+    "scenario": "B_referencia",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 3003333.33333322
+  },
+  {
+    "seed": 11,
+    "scenario": "B_referencia",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1876853.333333264
+  },
+  {
+    "seed": 11,
+    "scenario": "B_referencia",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 15573.333333333301
+  },
+  {
+    "seed": 11,
+    "scenario": "B_referencia",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "ack",
+    "value": 72533.33333333222
+  },
+  {
+    "seed": 11,
+    "scenario": "B_referencia",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "ack",
+    "value": 72506.66666666555
+  },
+  {
+    "seed": 11,
+    "scenario": "B_referencia",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 3003333.33333322
+  },
+  {
+    "seed": 11,
+    "scenario": "B_referencia",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1876853.333333264
+  },
+  {
+    "seed": 11,
+    "scenario": "B_referencia",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 19199.999999999996
+  },
+  {
+    "seed": 11,
+    "scenario": "B_referencia",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 3003333.33333322
+  },
+  {
+    "seed": 11,
+    "scenario": "B_referencia",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1876853.333333264
+  },
+  {
+    "seed": 11,
+    "scenario": "B_referencia",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 15466.666666666635
+  },
+  {
+    "seed": 11,
+    "scenario": "B_referencia",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "ack",
+    "value": 72533.33333333222
+  },
+  {
+    "seed": 11,
+    "scenario": "B_referencia",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "ack",
+    "value": 72533.33333333222
+  },
+  {
+    "seed": 11,
+    "scenario": "B_referencia",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 3003333.33333322
+  },
+  {
+    "seed": 11,
+    "scenario": "B_referencia",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1876853.333333264
+  },
+  {
+    "seed": 11,
+    "scenario": "B_referencia",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 19199.999999999996
+  },
+  {
+    "seed": 11,
+    "scenario": "B_referencia",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 15466.666666666635
+  },
+  {
+    "seed": 11,
+    "scenario": "B_referencia",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1878933.3333332639
+  },
+  {
+    "seed": 11,
+    "scenario": "B_referencia",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 3001333.3333332203
+  },
+  {
+    "seed": 11,
+    "scenario": "C_diffserv",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 2382666.6666666977
+  },
+  {
+    "seed": 11,
+    "scenario": "C_diffserv",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1317333.3333333402
+  },
+  {
+    "seed": 11,
+    "scenario": "C_diffserv",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1300000.000000005
+  },
+  {
+    "seed": 11,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2414000.0000000237
+  },
+  {
+    "seed": 11,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1322000.0000000075
+  },
+  {
+    "seed": 11,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1264000.0000000007
+  },
+  {
+    "seed": 11,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 73.08333333333354
+  },
+  {
+    "seed": 11,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 209.8333333333397
+  },
+  {
+    "seed": 11,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 217.16666666667388
+  },
+  {
+    "seed": 11,
+    "scenario": "C_diffserv",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1300666.6666666716
+  },
+  {
+    "seed": 11,
+    "scenario": "C_diffserv",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1316666.6666666735
+  },
+  {
+    "seed": 11,
+    "scenario": "C_diffserv",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 2382666.6666666977
+  },
+  {
+    "seed": 11,
+    "scenario": "C_diffserv",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2415333.333333357
+  },
+  {
+    "seed": 11,
+    "scenario": "C_diffserv",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1321333.3333333407
+  },
+  {
+    "seed": 11,
+    "scenario": "C_diffserv",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1263333.333333334
+  },
+  {
+    "seed": 11,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1301333.3333333384
+  },
+  {
+    "seed": 11,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1317333.3333333402
+  },
+  {
+    "seed": 11,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 2381333.3333333647
+  },
+  {
+    "seed": 11,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 212.25000000000665
+  },
+  {
+    "seed": 11,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 210.33333333333977
+  },
+  {
+    "seed": 11,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 77.16666666666664
+  },
+  {
+    "seed": 11,
+    "scenario": "C_diffserv",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1263333.333333334
+  },
+  {
+    "seed": 11,
+    "scenario": "C_diffserv",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1321333.3333333407
+  },
+  {
+    "seed": 11,
+    "scenario": "C_diffserv",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2415333.333333357
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_normal",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1727333.333333388
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_normal",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1638000.0000000442
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_normal",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1634666.6666667105
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 1728000.0000000547
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1642666.6666667114
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1629333.3333333766
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 162.66666666666768
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 169.00000000000173
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 170.75000000000193
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_normal",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1727333.333333388
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_normal",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1638000.0000000442
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_normal",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1634666.6666667105
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_normal",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 1728666.6666667215
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_normal",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1642000.0000000447
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_normal",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1629333.3333333766
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1726666.6666667212
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1638000.0000000442
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1635333.3333333773
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 162.83333333333437
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 169.83333333333516
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 169.83333333333516
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_normal",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1629333.3333333766
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_normal",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1642000.0000000447
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_normal",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 1728666.6666667215
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_livre",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_livre",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_livre",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_livre",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_livre",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_livre",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_abuso",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_abuso",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_abuso",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_abuso",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_abuso",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_abuso",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_abuso",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 314.83333333333155
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_abuso",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_abuso",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_abuso",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_abuso",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_abuso",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_abuso",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_abuso",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_abuso",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_abuso",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_abuso",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 315.0833333333315
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_abuso",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_abuso",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_abuso",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 23,
+    "scenario": "A_droptail",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 23,
+    "scenario": "A_droptail",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 23,
+    "scenario": "A_droptail",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 23,
+    "scenario": "A_droptail",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 23,
+    "scenario": "A_droptail",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 124.91666666666393
+  },
+  {
+    "seed": 23,
+    "scenario": "A_droptail",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 374.99999999998454
+  },
+  {
+    "seed": 23,
+    "scenario": "A_droptail",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 23,
+    "scenario": "A_droptail",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 23,
+    "scenario": "A_droptail",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 23,
+    "scenario": "A_droptail",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 23,
+    "scenario": "A_droptail",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 23,
+    "scenario": "A_droptail",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 23,
+    "scenario": "A_droptail",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 124.91666666666393
+  },
+  {
+    "seed": 23,
+    "scenario": "A_droptail",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 374.99999999998454
+  },
+  {
+    "seed": 23,
+    "scenario": "A_droptail",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 23,
+    "scenario": "A_droptail",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 23,
+    "scenario": "A_red",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 1672000.0000000482
+  },
+  {
+    "seed": 23,
+    "scenario": "A_red",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1660000.0000000468
+  },
+  {
+    "seed": 23,
+    "scenario": "A_red",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1668000.0000000477
+  },
+  {
+    "seed": 23,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1642000.0000000447
+  },
+  {
+    "seed": 23,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1684666.6666667163
+  },
+  {
+    "seed": 23,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1673333.3333333817
+  },
+  {
+    "seed": 23,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 169.75000000000182
+  },
+  {
+    "seed": 23,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 164.58333333333456
+  },
+  {
+    "seed": 23,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 166.0000000000014
+  },
+  {
+    "seed": 23,
+    "scenario": "A_red",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1667333.333333381
+  },
+  {
+    "seed": 23,
+    "scenario": "A_red",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1660000.0000000468
+  },
+  {
+    "seed": 23,
+    "scenario": "A_red",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 1672666.666666715
+  },
+  {
+    "seed": 23,
+    "scenario": "A_red",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1640666.6666667112
+  },
+  {
+    "seed": 23,
+    "scenario": "A_red",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1686000.0000000498
+  },
+  {
+    "seed": 23,
+    "scenario": "A_red",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1673333.3333333817
+  },
+  {
+    "seed": 23,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1667333.333333381
+  },
+  {
+    "seed": 23,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1658666.6666667133
+  },
+  {
+    "seed": 23,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 1674000.0000000484
+  },
+  {
+    "seed": 23,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 166.91666666666816
+  },
+  {
+    "seed": 23,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 167.66666666666825
+  },
+  {
+    "seed": 23,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 165.91666666666805
+  },
+  {
+    "seed": 23,
+    "scenario": "A_red",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1674000.0000000484
+  },
+  {
+    "seed": 23,
+    "scenario": "A_red",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1685333.333333383
+  },
+  {
+    "seed": 23,
+    "scenario": "A_red",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1640666.6666667112
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2993999.9999998887
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1489973.3333333074
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 17279.999999999975
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2983333.3333332245
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1468479.9999999765
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 18453.33333333332
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "ack",
+    "value": 56773.33333333174
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1.0833333333333333
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 0.5833333333333333
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "exp",
+    "value": 0.25
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "ack",
+    "value": 1.4999999999999996
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "ack",
+    "value": 56373.33333333178
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2994666.666666555
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1489279.9999999742
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 17279.999999999975
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2983333.3333332245
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1468479.9999999765
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 18453.33333333332
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "ack",
+    "value": 56773.33333333174
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "ack",
+    "value": 56373.33333333178
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2992666.6666665557
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1491359.999999974
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 17279.999999999975
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 0.6666666666666666
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1.0
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 6,
+    "type": "exp",
+    "value": 0.08333333333333333
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 18453.33333333332
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1467786.6666666432
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2983333.3333332245
+  },
+  {
+    "seed": 23,
+    "scenario": "B_referencia",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2995999.9999998882
+  },
+  {
+    "seed": 23,
+    "scenario": "B_referencia",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1881706.666666597
+  },
+  {
+    "seed": 23,
+    "scenario": "B_referencia",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 17279.999999999975
+  },
+  {
+    "seed": 23,
+    "scenario": "B_referencia",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2999333.333333221
+  },
+  {
+    "seed": 23,
+    "scenario": "B_referencia",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1878933.3333332639
+  },
+  {
+    "seed": 23,
+    "scenario": "B_referencia",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 18773.333333333325
+  },
+  {
+    "seed": 23,
+    "scenario": "B_referencia",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "ack",
+    "value": 72159.99999999882
+  },
+  {
+    "seed": 23,
+    "scenario": "B_referencia",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "ack",
+    "value": 71999.99999999879
+  },
+  {
+    "seed": 23,
+    "scenario": "B_referencia",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2996666.6666665548
+  },
+  {
+    "seed": 23,
+    "scenario": "B_referencia",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1881013.3333332636
+  },
+  {
+    "seed": 23,
+    "scenario": "B_referencia",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 17279.999999999975
+  },
+  {
+    "seed": 23,
+    "scenario": "B_referencia",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2997333.3333332213
+  },
+  {
+    "seed": 23,
+    "scenario": "B_referencia",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1881013.3333332636
+  },
+  {
+    "seed": 23,
+    "scenario": "B_referencia",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 18773.333333333325
+  },
+  {
+    "seed": 23,
+    "scenario": "B_referencia",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "ack",
+    "value": 71999.99999999879
+  },
+  {
+    "seed": 23,
+    "scenario": "B_referencia",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "ack",
+    "value": 72133.33333333215
+  },
+  {
+    "seed": 23,
+    "scenario": "B_referencia",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2998666.6666665543
+  },
+  {
+    "seed": 23,
+    "scenario": "B_referencia",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1878933.3333332639
+  },
+  {
+    "seed": 23,
+    "scenario": "B_referencia",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 17386.666666666642
+  },
+  {
+    "seed": 23,
+    "scenario": "B_referencia",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 18773.333333333325
+  },
+  {
+    "seed": 23,
+    "scenario": "B_referencia",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1881013.3333332636
+  },
+  {
+    "seed": 23,
+    "scenario": "B_referencia",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2996666.6666665548
+  },
+  {
+    "seed": 23,
+    "scenario": "C_diffserv",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 2413333.3333333572
+  },
+  {
+    "seed": 23,
+    "scenario": "C_diffserv",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1299333.3333333381
+  },
+  {
+    "seed": 23,
+    "scenario": "C_diffserv",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1287333.3333333367
+  },
+  {
+    "seed": 23,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2412666.6666666907
+  },
+  {
+    "seed": 23,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1318666.6666666737
+  },
+  {
+    "seed": 23,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1268666.666666668
+  },
+  {
+    "seed": 23,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 73.58333333333351
+  },
+  {
+    "seed": 23,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 210.33333333333977
+  },
+  {
+    "seed": 23,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 216.58333333334048
+  },
+  {
+    "seed": 23,
+    "scenario": "C_diffserv",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1287333.3333333367
+  },
+  {
+    "seed": 23,
+    "scenario": "C_diffserv",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1300000.000000005
+  },
+  {
+    "seed": 23,
+    "scenario": "C_diffserv",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 2412666.6666666907
+  },
+  {
+    "seed": 23,
+    "scenario": "C_diffserv",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2412000.000000024
+  },
+  {
+    "seed": 23,
+    "scenario": "C_diffserv",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1318666.6666666737
+  },
+  {
+    "seed": 23,
+    "scenario": "C_diffserv",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1269333.3333333347
+  },
+  {
+    "seed": 23,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1288666.6666666702
+  },
+  {
+    "seed": 23,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1300000.000000005
+  },
+  {
+    "seed": 23,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 2411333.3333333577
+  },
+  {
+    "seed": 23,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 213.83333333334016
+  },
+  {
+    "seed": 23,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 212.58333333334002
+  },
+  {
+    "seed": 23,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 73.58333333333351
+  },
+  {
+    "seed": 23,
+    "scenario": "C_diffserv",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1269333.3333333347
+  },
+  {
+    "seed": 23,
+    "scenario": "C_diffserv",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1319333.3333333405
+  },
+  {
+    "seed": 23,
+    "scenario": "C_diffserv",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2411333.3333333577
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_normal",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1721333.3333333873
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_normal",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1642666.6666667114
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_normal",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1636000.000000044
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 1729333.3333333882
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1641333.333333378
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1629333.3333333766
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 162.3333333333343
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 169.25000000000176
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 170.75000000000193
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_normal",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1720666.6666667205
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_normal",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1643333.3333333782
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_normal",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1636000.000000044
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_normal",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 1730000.000000055
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_normal",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1641333.333333378
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_normal",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1628666.6666667098
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1720000.0000000538
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1643333.3333333782
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1636666.6666667107
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 163.83333333333448
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 168.83333333333505
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 169.75000000000182
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_normal",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1628000.000000043
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_normal",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1641333.333333378
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_normal",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 1730666.6666667217
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_livre",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_livre",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_livre",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_livre",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_livre",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_livre",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_abuso",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_abuso",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_abuso",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_abuso",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_abuso",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_abuso",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_abuso",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 315.0833333333315
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_abuso",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_abuso",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_abuso",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_abuso",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_abuso",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_abuso",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_abuso",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_abuso",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_abuso",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_abuso",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 315.1666666666648
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_abuso",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_abuso",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_abuso",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 41,
+    "scenario": "A_droptail",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 41,
+    "scenario": "A_droptail",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 41,
+    "scenario": "A_droptail",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 41,
+    "scenario": "A_droptail",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 41,
+    "scenario": "A_droptail",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 124.91666666666393
+  },
+  {
+    "seed": 41,
+    "scenario": "A_droptail",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 374.99999999998454
+  },
+  {
+    "seed": 41,
+    "scenario": "A_droptail",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 41,
+    "scenario": "A_droptail",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 41,
+    "scenario": "A_droptail",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 41,
+    "scenario": "A_droptail",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 41,
+    "scenario": "A_droptail",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 41,
+    "scenario": "A_droptail",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 41,
+    "scenario": "A_droptail",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 124.91666666666393
+  },
+  {
+    "seed": 41,
+    "scenario": "A_droptail",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 374.99999999998454
+  },
+  {
+    "seed": 41,
+    "scenario": "A_droptail",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 41,
+    "scenario": "A_droptail",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 41,
+    "scenario": "A_red",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 1678666.6666667156
+  },
+  {
+    "seed": 41,
+    "scenario": "A_red",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1662000.000000047
+  },
+  {
+    "seed": 41,
+    "scenario": "A_red",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1659333.33333338
+  },
+  {
+    "seed": 41,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1644666.6666667117
+  },
+  {
+    "seed": 41,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1690000.0000000503
+  },
+  {
+    "seed": 41,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1665333.3333333808
+  },
+  {
+    "seed": 41,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 169.41666666666845
+  },
+  {
+    "seed": 41,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 163.75000000000114
+  },
+  {
+    "seed": 41,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 166.83333333333482
+  },
+  {
+    "seed": 41,
+    "scenario": "A_red",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1659333.33333338
+  },
+  {
+    "seed": 41,
+    "scenario": "A_red",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1662000.000000047
+  },
+  {
+    "seed": 41,
+    "scenario": "A_red",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 1678666.6666667156
+  },
+  {
+    "seed": 41,
+    "scenario": "A_red",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1644000.000000045
+  },
+  {
+    "seed": 41,
+    "scenario": "A_red",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1690000.0000000503
+  },
+  {
+    "seed": 41,
+    "scenario": "A_red",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1666000.0000000475
+  },
+  {
+    "seed": 41,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1658666.6666667133
+  },
+  {
+    "seed": 41,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1663333.3333333805
+  },
+  {
+    "seed": 41,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 1678000.000000049
+  },
+  {
+    "seed": 41,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 167.7500000000016
+  },
+  {
+    "seed": 41,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 167.1666666666682
+  },
+  {
+    "seed": 41,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 165.50000000000134
+  },
+  {
+    "seed": 41,
+    "scenario": "A_red",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1666666.6666667142
+  },
+  {
+    "seed": 41,
+    "scenario": "A_red",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1690000.0000000503
+  },
+  {
+    "seed": 41,
+    "scenario": "A_red",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1643333.3333333782
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2991999.999999889
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1584266.6666666302
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 25813.333333333405
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2981333.333333225
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1427573.3333333144
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 12479.999999999985
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "ack",
+    "value": 60399.99999999808
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1.8333333333333326
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 0.41666666666666663
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "exp",
+    "value": 0.25
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "ack",
+    "value": 1.0833333333333333
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "ack",
+    "value": 54559.99999999861
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2989999.9999998896
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1586346.66666663
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 25813.333333333405
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2982666.666666558
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1424799.9999999814
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 12479.999999999985
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "ack",
+    "value": 60399.99999999808
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "ack",
+    "value": 54559.99999999861
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2987333.3333332236
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1589119.999999963
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 25813.333333333405
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "ack",
+    "value": 0.16666666666666666
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1.1666666666666665
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 0.8333333333333334
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 6,
+    "type": "exp",
+    "value": 0.16666666666666666
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 12479.999999999985
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1422719.9999999816
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2983333.3333332245
+  },
+  {
+    "seed": 41,
+    "scenario": "B_referencia",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2996666.6666665548
+  },
+  {
+    "seed": 41,
+    "scenario": "B_referencia",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1881706.666666597
+  },
+  {
+    "seed": 41,
+    "scenario": "B_referencia",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 26026.66666666674
+  },
+  {
+    "seed": 41,
+    "scenario": "B_referencia",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 3000666.666666554
+  },
+  {
+    "seed": 41,
+    "scenario": "B_referencia",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1877546.6666665974
+  },
+  {
+    "seed": 41,
+    "scenario": "B_referencia",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 12799.999999999984
+  },
+  {
+    "seed": 41,
+    "scenario": "B_referencia",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "ack",
+    "value": 72266.66666666551
+  },
+  {
+    "seed": 41,
+    "scenario": "B_referencia",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "ack",
+    "value": 72079.9999999988
+  },
+  {
+    "seed": 41,
+    "scenario": "B_referencia",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2997999.999999888
+  },
+  {
+    "seed": 41,
+    "scenario": "B_referencia",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1880319.9999999304
+  },
+  {
+    "seed": 41,
+    "scenario": "B_referencia",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 26026.66666666674
+  },
+  {
+    "seed": 41,
+    "scenario": "B_referencia",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2997999.999999888
+  },
+  {
+    "seed": 41,
+    "scenario": "B_referencia",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1880319.9999999304
+  },
+  {
+    "seed": 41,
+    "scenario": "B_referencia",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 12799.999999999984
+  },
+  {
+    "seed": 41,
+    "scenario": "B_referencia",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "ack",
+    "value": 72079.9999999988
+  },
+  {
+    "seed": 41,
+    "scenario": "B_referencia",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "ack",
+    "value": 72266.66666666551
+  },
+  {
+    "seed": 41,
+    "scenario": "B_referencia",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 3000666.666666554
+  },
+  {
+    "seed": 41,
+    "scenario": "B_referencia",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1876853.333333264
+  },
+  {
+    "seed": 41,
+    "scenario": "B_referencia",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 26026.66666666674
+  },
+  {
+    "seed": 41,
+    "scenario": "B_referencia",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 12799.999999999984
+  },
+  {
+    "seed": 41,
+    "scenario": "B_referencia",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1881706.666666597
+  },
+  {
+    "seed": 41,
+    "scenario": "B_referencia",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2996666.6666665548
+  },
+  {
+    "seed": 41,
+    "scenario": "C_diffserv",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 2420000.0000000224
+  },
+  {
+    "seed": 41,
+    "scenario": "C_diffserv",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1290666.6666666705
+  },
+  {
+    "seed": 41,
+    "scenario": "C_diffserv",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1289333.333333337
+  },
+  {
+    "seed": 41,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2438666.6666666847
+  },
+  {
+    "seed": 41,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1318000.000000007
+  },
+  {
+    "seed": 41,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1243333.3333333316
+  },
+  {
+    "seed": 41,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 70.08333333333371
+  },
+  {
+    "seed": 41,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 210.4166666666731
+  },
+  {
+    "seed": 41,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 219.58333333334082
+  },
+  {
+    "seed": 41,
+    "scenario": "C_diffserv",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1290666.6666666705
+  },
+  {
+    "seed": 41,
+    "scenario": "C_diffserv",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1290666.6666666705
+  },
+  {
+    "seed": 41,
+    "scenario": "C_diffserv",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 2418666.6666666893
+  },
+  {
+    "seed": 41,
+    "scenario": "C_diffserv",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2438666.6666666847
+  },
+  {
+    "seed": 41,
+    "scenario": "C_diffserv",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1318666.6666666737
+  },
+  {
+    "seed": 41,
+    "scenario": "C_diffserv",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1242666.6666666649
+  },
+  {
+    "seed": 41,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1290000.0000000037
+  },
+  {
+    "seed": 41,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1291333.3333333372
+  },
+  {
+    "seed": 41,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 2418666.6666666893
+  },
+  {
+    "seed": 41,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 213.9166666666735
+  },
+  {
+    "seed": 41,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 213.5000000000068
+  },
+  {
+    "seed": 41,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 72.50000000000024
+  },
+  {
+    "seed": 41,
+    "scenario": "C_diffserv",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1242666.6666666649
+  },
+  {
+    "seed": 41,
+    "scenario": "C_diffserv",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1318000.000000007
+  },
+  {
+    "seed": 41,
+    "scenario": "C_diffserv",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2439333.333333351
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_normal",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1732666.666666722
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_normal",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1640666.6666667112
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_normal",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1626666.6666667096
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 1729333.3333333882
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1641333.333333378
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1629333.3333333766
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 162.41666666666765
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 169.25000000000176
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 170.91666666666862
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_normal",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1732666.666666722
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_normal",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1640666.6666667112
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_normal",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1626666.6666667096
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_normal",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 1730000.000000055
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_normal",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1641333.333333378
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_normal",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1628666.6666667098
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1732000.0000000552
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1641333.333333378
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1626666.6666667096
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 162.08333333333428
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 169.41666666666845
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 171.00000000000196
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_normal",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1628666.6666667098
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_normal",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1640666.6666667112
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_normal",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 1730666.6666667217
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_livre",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_livre",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_livre",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_livre",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_livre",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_livre",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_abuso",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_abuso",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_abuso",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_abuso",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_abuso",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_abuso",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_abuso",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 315.0833333333315
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_abuso",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_abuso",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_abuso",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_abuso",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_abuso",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_abuso",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_abuso",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_abuso",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_abuso",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_abuso",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 314.83333333333155
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_abuso",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_abuso",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_abuso",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 97,
+    "scenario": "A_droptail",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 97,
+    "scenario": "A_droptail",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 97,
+    "scenario": "A_droptail",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 97,
+    "scenario": "A_droptail",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 97,
+    "scenario": "A_droptail",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 124.91666666666393
+  },
+  {
+    "seed": 97,
+    "scenario": "A_droptail",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 374.99999999998454
+  },
+  {
+    "seed": 97,
+    "scenario": "A_droptail",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 97,
+    "scenario": "A_droptail",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 97,
+    "scenario": "A_droptail",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 97,
+    "scenario": "A_droptail",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 97,
+    "scenario": "A_droptail",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 97,
+    "scenario": "A_droptail",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 97,
+    "scenario": "A_droptail",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 124.91666666666393
+  },
+  {
+    "seed": 97,
+    "scenario": "A_droptail",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 374.99999999998454
+  },
+  {
+    "seed": 97,
+    "scenario": "A_droptail",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 97,
+    "scenario": "A_droptail",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2999999.9999998873
+  },
+  {
+    "seed": 97,
+    "scenario": "A_red",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 1670666.6666667147
+  },
+  {
+    "seed": 97,
+    "scenario": "A_red",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1651333.3333333791
+  },
+  {
+    "seed": 97,
+    "scenario": "A_red",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1678000.000000049
+  },
+  {
+    "seed": 97,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1692666.6666667173
+  },
+  {
+    "seed": 97,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1648666.6666667121
+  },
+  {
+    "seed": 97,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1658666.6666667133
+  },
+  {
+    "seed": 97,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 163.5000000000011
+  },
+  {
+    "seed": 97,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 169.08333333333508
+  },
+  {
+    "seed": 97,
+    "scenario": "A_red",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 167.83333333333493
+  },
+  {
+    "seed": 97,
+    "scenario": "A_red",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1677333.3333333822
+  },
+  {
+    "seed": 97,
+    "scenario": "A_red",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1652000.0000000459
+  },
+  {
+    "seed": 97,
+    "scenario": "A_red",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 1670666.6666667147
+  },
+  {
+    "seed": 97,
+    "scenario": "A_red",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1694000.0000000508
+  },
+  {
+    "seed": 97,
+    "scenario": "A_red",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1648666.6666667121
+  },
+  {
+    "seed": 97,
+    "scenario": "A_red",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1657333.3333333798
+  },
+  {
+    "seed": 97,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1676666.6666667154
+  },
+  {
+    "seed": 97,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1652666.6666667126
+  },
+  {
+    "seed": 97,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 1670666.6666667147
+  },
+  {
+    "seed": 97,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 165.16666666666796
+  },
+  {
+    "seed": 97,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 168.50000000000168
+  },
+  {
+    "seed": 97,
+    "scenario": "A_red",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 166.0000000000014
+  },
+  {
+    "seed": 97,
+    "scenario": "A_red",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1657333.3333333798
+  },
+  {
+    "seed": 97,
+    "scenario": "A_red",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1648666.6666667121
+  },
+  {
+    "seed": 97,
+    "scenario": "A_red",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1694000.0000000508
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2945999.9999999
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1627946.6666666253
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 6933.333333333339
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2987999.99999989
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1621706.666666626
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 22186.666666666697
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "ack",
+    "value": 62693.333333331204
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2.4166666666666665
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 2.5
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "exp",
+    "value": 0.08333333333333333
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "ack",
+    "value": 0.41666666666666663
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "ack",
+    "value": 60986.66666666469
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2943999.9999999003
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1630026.666666625
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 6933.333333333339
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2986666.666666557
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1624479.999999959
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 22186.666666666697
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "ack",
+    "value": 62693.333333331204
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "ack",
+    "value": 60853.33333333137
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 2941333.3333332343
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1632799.999999958
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 6826.666666666672
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "ack",
+    "value": 6.333333333333328
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 7.916666666666655
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 0.49999999999999994
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 6,
+    "type": "exp",
+    "value": 0.16666666666666666
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 22186.666666666697
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1625866.6666666255
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2986666.666666557
+  },
+  {
+    "seed": 97,
+    "scenario": "B_referencia",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 3000666.666666554
+  },
+  {
+    "seed": 97,
+    "scenario": "B_referencia",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1880319.9999999304
+  },
+  {
+    "seed": 97,
+    "scenario": "B_referencia",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 7040.000000000006
+  },
+  {
+    "seed": 97,
+    "scenario": "B_referencia",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 3003333.33333322
+  },
+  {
+    "seed": 97,
+    "scenario": "B_referencia",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1877546.6666665974
+  },
+  {
+    "seed": 97,
+    "scenario": "B_referencia",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 22293.333333333365
+  },
+  {
+    "seed": 97,
+    "scenario": "B_referencia",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "ack",
+    "value": 72533.33333333222
+  },
+  {
+    "seed": 97,
+    "scenario": "B_referencia",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "ack",
+    "value": 72506.66666666555
+  },
+  {
+    "seed": 97,
+    "scenario": "B_referencia",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 3002666.6666665534
+  },
+  {
+    "seed": 97,
+    "scenario": "B_referencia",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1878239.9999999306
+  },
+  {
+    "seed": 97,
+    "scenario": "B_referencia",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 6933.333333333339
+  },
+  {
+    "seed": 97,
+    "scenario": "B_referencia",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 3002666.6666665534
+  },
+  {
+    "seed": 97,
+    "scenario": "B_referencia",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1878239.9999999306
+  },
+  {
+    "seed": 97,
+    "scenario": "B_referencia",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 22293.333333333365
+  },
+  {
+    "seed": 97,
+    "scenario": "B_referencia",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "ack",
+    "value": 72506.66666666555
+  },
+  {
+    "seed": 97,
+    "scenario": "B_referencia",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "ack",
+    "value": 72533.33333333222
+  },
+  {
+    "seed": 97,
+    "scenario": "B_referencia",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 3003333.33333322
+  },
+  {
+    "seed": 97,
+    "scenario": "B_referencia",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "tcp",
+    "value": 1877546.6666665974
+  },
+  {
+    "seed": 97,
+    "scenario": "B_referencia",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "exp",
+    "value": 6933.333333333339
+  },
+  {
+    "seed": 97,
+    "scenario": "B_referencia",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "exp",
+    "value": 22293.333333333365
+  },
+  {
+    "seed": 97,
+    "scenario": "B_referencia",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "tcp",
+    "value": 1880319.9999999304
+  },
+  {
+    "seed": 97,
+    "scenario": "B_referencia",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 3000666.666666554
+  },
+  {
+    "seed": 97,
+    "scenario": "C_diffserv",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 2422666.6666666884
+  },
+  {
+    "seed": 97,
+    "scenario": "C_diffserv",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1285333.3333333365
+  },
+  {
+    "seed": 97,
+    "scenario": "C_diffserv",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1292000.000000004
+  },
+  {
+    "seed": 97,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2430666.6666666865
+  },
+  {
+    "seed": 97,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1293333.3333333374
+  },
+  {
+    "seed": 97,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1276000.000000002
+  },
+  {
+    "seed": 97,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 70.916666666667
+  },
+  {
+    "seed": 97,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 213.66666666667348
+  },
+  {
+    "seed": 97,
+    "scenario": "C_diffserv",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 215.6666666666737
+  },
+  {
+    "seed": 97,
+    "scenario": "C_diffserv",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1292000.000000004
+  },
+  {
+    "seed": 97,
+    "scenario": "C_diffserv",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1285333.3333333365
+  },
+  {
+    "seed": 97,
+    "scenario": "C_diffserv",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 2422666.6666666884
+  },
+  {
+    "seed": 97,
+    "scenario": "C_diffserv",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2432666.666666686
+  },
+  {
+    "seed": 97,
+    "scenario": "C_diffserv",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1292000.000000004
+  },
+  {
+    "seed": 97,
+    "scenario": "C_diffserv",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1275333.3333333354
+  },
+  {
+    "seed": 97,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1292666.6666666707
+  },
+  {
+    "seed": 97,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1285333.3333333365
+  },
+  {
+    "seed": 97,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 2422000.000000022
+  },
+  {
+    "seed": 97,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 212.9166666666734
+  },
+  {
+    "seed": 97,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 214.16666666667354
+  },
+  {
+    "seed": 97,
+    "scenario": "C_diffserv",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 6,
+    "type": "cbr",
+    "value": 72.33333333333358
+  },
+  {
+    "seed": 97,
+    "scenario": "C_diffserv",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1276000.000000002
+  },
+  {
+    "seed": 97,
+    "scenario": "C_diffserv",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1291333.3333333372
+  },
+  {
+    "seed": 97,
+    "scenario": "C_diffserv",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 2432666.666666686
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_normal",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1726000.0000000545
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_normal",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1636666.6666667107
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_normal",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1637333.3333333775
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 1736666.6666667224
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1638666.666666711
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1624666.6666667094
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 161.41666666666754
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 169.66666666666848
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_normal",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 171.250000000002
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_normal",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1726000.0000000545
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_normal",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1636666.6666667107
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_normal",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1637333.3333333775
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_normal",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 1737333.3333333891
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_normal",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1638000.0000000442
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_normal",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1624666.6666667094
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 1725333.3333333877
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1637333.3333333775
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1637333.3333333775
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 162.75000000000102
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 169.9166666666685
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_normal",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 169.75000000000182
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_normal",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1624000.0000000426
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_normal",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1638000.0000000442
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_normal",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 1738000.0000000559
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_livre",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_livre",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_livre",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_livre",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_livre",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_livre",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 4999999.999999984
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_abuso",
+    "interface": "3->0",
+    "metric": "dest_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_abuso",
+    "interface": "3->1",
+    "metric": "dest_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_abuso",
+    "interface": "3->2",
+    "metric": "dest_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_abuso",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_abuso",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_abuso",
+    "interface": "3->4",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_abuso",
+    "interface": "3->4",
+    "metric": "loss_pps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 314.83333333333155
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_abuso",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_abuso",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_abuso",
+    "interface": "4->3",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_abuso",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_abuso",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_abuso",
+    "interface": "4->5",
+    "metric": "bw_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_abuso",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_abuso",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 4,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_abuso",
+    "interface": "5->4",
+    "metric": "bw_bps",
+    "fid": 5,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_abuso",
+    "interface": "5->4",
+    "metric": "loss_pps",
+    "fid": 3,
+    "type": "cbr",
+    "value": 315.1666666666648
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_abuso",
+    "interface": "5->6",
+    "metric": "dest_bps",
+    "fid": 2,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_abuso",
+    "interface": "5->7",
+    "metric": "dest_bps",
+    "fid": 1,
+    "type": "cbr",
+    "value": 1500000.0000000282
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_abuso",
+    "interface": "5->8",
+    "metric": "dest_bps",
+    "fid": 0,
+    "type": "cbr",
+    "value": 2000000.0000000864
+  }
+]

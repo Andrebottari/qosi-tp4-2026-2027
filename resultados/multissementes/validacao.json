@@ -1,0 +1,322 @@
+[
+  {
+    "seed": 7,
+    "scenario": "A_droptail",
+    "udp_sent": 33756,
+    "udp_received": 18850,
+    "udp_dropped": 14906,
+    "checks": "OK"
+  },
+  {
+    "seed": 7,
+    "scenario": "A_red",
+    "udp_sent": 33756,
+    "udp_received": 18815,
+    "udp_dropped": 14941,
+    "checks": "OK"
+  },
+  {
+    "seed": 7,
+    "scenario": "B_misto",
+    "udp_sent": 11778,
+    "udp_received": 11647,
+    "udp_dropped": 131,
+    "checks": "OK"
+  },
+  {
+    "seed": 7,
+    "scenario": "B_referencia",
+    "udp_sent": 11778,
+    "udp_received": 11778,
+    "udp_dropped": 0,
+    "checks": "OK"
+  },
+  {
+    "seed": 7,
+    "scenario": "C_diffserv",
+    "udp_sent": 33756,
+    "udp_received": 18783,
+    "udp_dropped": 14973,
+    "checks": "OK"
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_normal",
+    "udp_sent": 33756,
+    "udp_received": 18811,
+    "udp_dropped": 14945,
+    "checks": "OK"
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_livre",
+    "udp_sent": 18752,
+    "udp_received": 18752,
+    "udp_dropped": 0,
+    "checks": "OK"
+  },
+  {
+    "seed": 7,
+    "scenario": "C4_abuso",
+    "udp_sent": 28128,
+    "udp_received": 18803,
+    "udp_dropped": 9325,
+    "checks": "OK"
+  },
+  {
+    "seed": 11,
+    "scenario": "A_droptail",
+    "udp_sent": 33756,
+    "udp_received": 18850,
+    "udp_dropped": 14906,
+    "checks": "OK"
+  },
+  {
+    "seed": 11,
+    "scenario": "A_red",
+    "udp_sent": 33756,
+    "udp_received": 18817,
+    "udp_dropped": 14939,
+    "checks": "OK"
+  },
+  {
+    "seed": 11,
+    "scenario": "B_misto",
+    "udp_sent": 11643,
+    "udp_received": 11496,
+    "udp_dropped": 147,
+    "checks": "OK"
+  },
+  {
+    "seed": 11,
+    "scenario": "B_referencia",
+    "udp_sent": 11643,
+    "udp_received": 11643,
+    "udp_dropped": 0,
+    "checks": "OK"
+  },
+  {
+    "seed": 11,
+    "scenario": "C_diffserv",
+    "udp_sent": 33756,
+    "udp_received": 18786,
+    "udp_dropped": 14970,
+    "checks": "OK"
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_normal",
+    "udp_sent": 33756,
+    "udp_received": 18818,
+    "udp_dropped": 14938,
+    "checks": "OK"
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_livre",
+    "udp_sent": 18752,
+    "udp_received": 18752,
+    "udp_dropped": 0,
+    "checks": "OK"
+  },
+  {
+    "seed": 11,
+    "scenario": "C4_abuso",
+    "udp_sent": 28128,
+    "udp_received": 18800,
+    "udp_dropped": 9328,
+    "checks": "OK"
+  },
+  {
+    "seed": 23,
+    "scenario": "A_droptail",
+    "udp_sent": 33756,
+    "udp_received": 18850,
+    "udp_dropped": 14906,
+    "checks": "OK"
+  },
+  {
+    "seed": 23,
+    "scenario": "A_red",
+    "udp_sent": 33756,
+    "udp_received": 18812,
+    "udp_dropped": 14944,
+    "checks": "OK"
+  },
+  {
+    "seed": 23,
+    "scenario": "B_misto",
+    "udp_sent": 11710,
+    "udp_received": 11610,
+    "udp_dropped": 100,
+    "checks": "OK"
+  },
+  {
+    "seed": 23,
+    "scenario": "B_referencia",
+    "udp_sent": 11710,
+    "udp_received": 11710,
+    "udp_dropped": 0,
+    "checks": "OK"
+  },
+  {
+    "seed": 23,
+    "scenario": "C_diffserv",
+    "udp_sent": 33756,
+    "udp_received": 18787,
+    "udp_dropped": 14969,
+    "checks": "OK"
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_normal",
+    "udp_sent": 33756,
+    "udp_received": 18814,
+    "udp_dropped": 14942,
+    "checks": "OK"
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_livre",
+    "udp_sent": 18752,
+    "udp_received": 18752,
+    "udp_dropped": 0,
+    "checks": "OK"
+  },
+  {
+    "seed": 23,
+    "scenario": "C4_abuso",
+    "udp_sent": 28128,
+    "udp_received": 18801,
+    "udp_dropped": 9327,
+    "checks": "OK"
+  },
+  {
+    "seed": 41,
+    "scenario": "A_droptail",
+    "udp_sent": 33756,
+    "udp_received": 18850,
+    "udp_dropped": 14906,
+    "checks": "OK"
+  },
+  {
+    "seed": 41,
+    "scenario": "A_red",
+    "udp_sent": 33756,
+    "udp_received": 18822,
+    "udp_dropped": 14934,
+    "checks": "OK"
+  },
+  {
+    "seed": 41,
+    "scenario": "B_misto",
+    "udp_sent": 11678,
+    "udp_received": 11565,
+    "udp_dropped": 113,
+    "checks": "OK"
+  },
+  {
+    "seed": 41,
+    "scenario": "B_referencia",
+    "udp_sent": 11678,
+    "udp_received": 11678,
+    "udp_dropped": 0,
+    "checks": "OK"
+  },
+  {
+    "seed": 41,
+    "scenario": "C_diffserv",
+    "udp_sent": 33756,
+    "udp_received": 18787,
+    "udp_dropped": 14969,
+    "checks": "OK"
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_normal",
+    "udp_sent": 33756,
+    "udp_received": 18816,
+    "udp_dropped": 14940,
+    "checks": "OK"
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_livre",
+    "udp_sent": 18752,
+    "udp_received": 18752,
+    "udp_dropped": 0,
+    "checks": "OK"
+  },
+  {
+    "seed": 41,
+    "scenario": "C4_abuso",
+    "udp_sent": 28128,
+    "udp_received": 18799,
+    "udp_dropped": 9329,
+    "checks": "OK"
+  },
+  {
+    "seed": 97,
+    "scenario": "A_droptail",
+    "udp_sent": 33756,
+    "udp_received": 18850,
+    "udp_dropped": 14906,
+    "checks": "OK"
+  },
+  {
+    "seed": 97,
+    "scenario": "A_red",
+    "udp_sent": 33756,
+    "udp_received": 18818,
+    "udp_dropped": 14938,
+    "checks": "OK"
+  },
+  {
+    "seed": 97,
+    "scenario": "B_misto",
+    "udp_sent": 11561,
+    "udp_received": 11376,
+    "udp_dropped": 185,
+    "checks": "OK"
+  },
+  {
+    "seed": 97,
+    "scenario": "B_referencia",
+    "udp_sent": 11561,
+    "udp_received": 11561,
+    "udp_dropped": 0,
+    "checks": "OK"
+  },
+  {
+    "seed": 97,
+    "scenario": "C_diffserv",
+    "udp_sent": 33756,
+    "udp_received": 18786,
+    "udp_dropped": 14970,
+    "checks": "OK"
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_normal",
+    "udp_sent": 33756,
+    "udp_received": 18814,
+    "udp_dropped": 14942,
+    "checks": "OK"
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_livre",
+    "udp_sent": 18752,
+    "udp_received": 18752,
+    "udp_dropped": 0,
+    "checks": "OK"
+  },
+  {
+    "seed": 97,
+    "scenario": "C4_abuso",
+    "udp_sent": 28128,
+    "udp_received": 18802,
+    "udp_dropped": 9326,
+    "checks": "OK"
+  }
+]

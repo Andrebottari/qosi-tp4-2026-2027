@@ -1,0 +1,338 @@
+QoSI_TP4_Grupo7/
+├── figuras/
+│   ├── A_droptail.pdf
+│   ├── A_droptail.png
+│   ├── A_droptail_compacto.pdf
+│   ├── A_droptail_compacto.png
+│   ├── A_red.pdf
+│   ├── A_red.png
+│   ├── A_red_compacto.pdf
+│   ├── A_red_compacto.png
+│   ├── B_misto.pdf
+│   ├── B_misto.png
+│   ├── B_referencia.pdf
+│   ├── B_referencia.png
+│   ├── C4_abuso.pdf
+│   ├── C4_abuso.png
+│   ├── C4_comparacao.pdf
+│   ├── C4_comparacao.png
+│   ├── C4_livre.pdf
+│   ├── C4_livre.png
+│   ├── C4_normal.pdf
+│   ├── C4_normal.png
+│   ├── C_diffserv.pdf
+│   ├── C_diffserv.png
+│   ├── C_diffserv_compacto.pdf
+│   └── C_diffserv_compacto.png
+├── originais/
+│   ├── files/
+│   │   ├── bw.awk
+│   │   ├── loss.awk
+│   │   ├── ns-simple.tcl
+│   │   ├── qos0.tcl
+│   │   └── qos1.tcl
+│   └── QoSI_TP4.pdf
+├── relatorio/
+│   ├── llncs.cls
+│   ├── main.tex
+│   ├── preambulo.tex
+│   └── splncs04.bst
+├── resultados/
+│   ├── A_droptail/
+│   │   ├── awk_oficial/
+│   │   │   ├── bw.gr
+│   │   │   ├── bw_0.0_8.0.gr
+│   │   │   ├── bw_1.0_7.0.gr
+│   │   │   ├── bw_2.0_6.0.gr
+│   │   │   ├── loss.gr
+│   │   │   ├── loss_1.0_7.0.gr
+│   │   │   ├── loss_2.0_6.0.gr
+│   │   │   ├── loss_7.1_1.1.gr
+│   │   │   └── loss_8.1_0.1.gr
+│   │   ├── execucao.log
+│   │   ├── out.nam
+│   │   ├── out.tr
+│   │   └── series.csv
+│   ├── A_red/
+│   │   ├── awk_oficial/
+│   │   │   ├── bw.gr
+│   │   │   ├── bw_0.0_8.0.gr
+│   │   │   ├── bw_1.0_7.0.gr
+│   │   │   ├── bw_2.0_6.0.gr
+│   │   │   ├── loss.gr
+│   │   │   ├── loss_0.0_8.0.gr
+│   │   │   ├── loss_1.0_7.0.gr
+│   │   │   ├── loss_2.0_6.0.gr
+│   │   │   ├── loss_6.1_2.1.gr
+│   │   │   ├── loss_7.1_1.1.gr
+│   │   │   └── loss_8.1_0.1.gr
+│   │   ├── execucao.log
+│   │   ├── out.nam
+│   │   ├── out.tr
+│   │   └── series.csv
+│   ├── B_misto/
+│   │   ├── awk_oficial/
+│   │   │   ├── bw.gr
+│   │   │   ├── bw_0.0_8.0.gr
+│   │   │   ├── bw_1.0_7.0.gr
+│   │   │   ├── bw_1.1_6.1.gr
+│   │   │   ├── bw_2.0_6.0.gr
+│   │   │   ├── loss.gr
+│   │   │   ├── loss_0.0_8.0.gr
+│   │   │   ├── loss_1.0_7.0.gr
+│   │   │   ├── loss_1.1_6.1.gr
+│   │   │   ├── loss_2.0_6.0.gr
+│   │   │   ├── loss_6.1_1.1.gr
+│   │   │   ├── loss_6.2_2.1.gr
+│   │   │   ├── loss_7.0_1.0.gr
+│   │   │   └── loss_8.1_0.1.gr
+│   │   ├── execucao.log
+│   │   ├── out.nam
+│   │   ├── out.tr
+│   │   └── series.csv
+│   ├── B_referencia/
+│   │   ├── awk_oficial/
+│   │   │   ├── bw.gr
+│   │   │   ├── bw_0.0_8.0.gr
+│   │   │   ├── bw_1.0_7.0.gr
+│   │   │   ├── bw_1.1_6.1.gr
+│   │   │   ├── bw_2.0_6.0.gr
+│   │   │   └── loss.gr
+│   │   ├── execucao.log
+│   │   ├── out.nam
+│   │   ├── out.tr
+│   │   └── series.csv
+│   ├── C4_abuso/
+│   │   ├── awk_oficial/
+│   │   │   ├── bw.gr
+│   │   │   ├── bw_0.0_8.0.gr
+│   │   │   ├── bw_1.0_7.0.gr
+│   │   │   ├── bw_2.0_6.0.gr
+│   │   │   ├── loss.gr
+│   │   │   ├── loss_0.0_8.0.gr
+│   │   │   └── loss_8.1_0.1.gr
+│   │   ├── execucao.log
+│   │   ├── out.nam
+│   │   ├── out.tr
+│   │   └── series.csv
+│   ├── C4_livre/
+│   │   ├── awk_oficial/
+│   │   │   ├── bw.gr
+│   │   │   ├── bw_0.0_8.0.gr
+│   │   │   └── loss.gr
+│   │   ├── execucao.log
+│   │   ├── out.nam
+│   │   ├── out.tr
+│   │   └── series.csv
+│   ├── C4_normal/
+│   │   ├── awk_oficial/
+│   │   │   ├── bw.gr
+│   │   │   ├── bw_0.0_8.0.gr
+│   │   │   ├── bw_1.0_7.0.gr
+│   │   │   ├── bw_2.0_6.0.gr
+│   │   │   ├── loss.gr
+│   │   │   ├── loss_0.0_8.0.gr
+│   │   │   ├── loss_1.0_7.0.gr
+│   │   │   ├── loss_2.0_6.0.gr
+│   │   │   ├── loss_6.1_2.1.gr
+│   │   │   ├── loss_7.1_1.1.gr
+│   │   │   └── loss_8.1_0.1.gr
+│   │   ├── execucao.log
+│   │   ├── out.nam
+│   │   ├── out.tr
+│   │   └── series.csv
+│   ├── C_diffserv/
+│   │   ├── awk_oficial/
+│   │   │   ├── bw.gr
+│   │   │   ├── bw_0.0_8.0.gr
+│   │   │   ├── bw_1.0_7.0.gr
+│   │   │   ├── bw_2.0_6.0.gr
+│   │   │   ├── loss.gr
+│   │   │   ├── loss_0.0_8.0.gr
+│   │   │   ├── loss_1.0_7.0.gr
+│   │   │   ├── loss_2.0_6.0.gr
+│   │   │   ├── loss_6.1_2.1.gr
+│   │   │   ├── loss_7.1_1.1.gr
+│   │   │   └── loss_8.1_0.1.gr
+│   │   ├── execucao.log
+│   │   ├── out.tr
+│   │   └── series.csv
+│   ├── multissementes/
+│   │   ├── 11/
+│   │   │   ├── A_droptail/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   ├── A_red/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   ├── B_misto/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   ├── B_referencia/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   ├── C4_abuso/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   ├── C4_livre/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   ├── C4_normal/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   └── C_diffserv/
+│   │   │       ├── execucao.log
+│   │   │       └── out.tr.gz
+│   │   ├── 23/
+│   │   │   ├── A_droptail/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   ├── A_red/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   ├── B_misto/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   ├── B_referencia/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   ├── C4_abuso/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   ├── C4_livre/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   ├── C4_normal/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   └── C_diffserv/
+│   │   │       ├── execucao.log
+│   │   │       └── out.tr.gz
+│   │   ├── 41/
+│   │   │   ├── A_droptail/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   ├── A_red/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   ├── B_misto/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   ├── B_referencia/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   ├── C4_abuso/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   ├── C4_livre/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   ├── C4_normal/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   └── C_diffserv/
+│   │   │       ├── execucao.log
+│   │   │       └── out.tr.gz
+│   │   ├── 97/
+│   │   │   ├── A_droptail/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   ├── A_red/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   ├── B_misto/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   ├── B_referencia/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   ├── C4_abuso/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   ├── C4_livre/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   ├── C4_normal/
+│   │   │   │   ├── execucao.log
+│   │   │   │   ├── out.nam.gz
+│   │   │   │   └── out.tr.gz
+│   │   │   └── C_diffserv/
+│   │   │       ├── execucao.log
+│   │   │       └── out.tr.gz
+│   │   ├── estatisticas.csv
+│   │   ├── estatisticas.json
+│   │   ├── metricas.csv
+│   │   ├── metricas.json
+│   │   ├── validacao.csv
+│   │   └── validacao.json
+│   ├── validacao/
+│   │   ├── ESTRUTURA_COMPLETA.txt
+│   │   ├── MANIFESTO_SHA256.json
+│   │   ├── VALIDACAO.md
+│   │   ├── auditoria_traces.log
+│   │   ├── consistencia_relatorio.json
+│   │   ├── reproducao_comparacao.json
+│   │   ├── reproducao_integral.log
+│   │   └── visualizacao.json
+│   ├── LEITURA.md
+│   ├── compilacao.log
+│   ├── equivalencia_c4.log
+│   ├── multissementes_execucao.log
+│   ├── resumo.csv
+│   ├── resumo.json
+│   ├── verificacao.log
+│   └── versoes.txt
+├── scripts/
+│   ├── awk/
+│   │   └── bw.awk
+│   ├── gerados/
+│   │   ├── A_droptail.tcl
+│   │   ├── A_red.tcl
+│   │   ├── B_misto.tcl
+│   │   ├── B_referencia.tcl
+│   │   └── C_diffserv.tcl
+│   ├── Makefile
+│   ├── analisar.py
+│   ├── awk_oficiais.sh
+│   ├── cenario.tcl
+│   ├── defaults.tcl
+│   ├── executar.sh
+│   ├── figuras_compactas.py
+│   ├── multissementes.py
+│   ├── preparar.py
+│   ├── relatorio.py
+│   ├── requirements.txt
+│   ├── validar_submissao.py
+│   ├── verificar.py
+│   └── verificar_entrega.py
+├── .gitignore
+├── Dockerfile
+├── README.md
+└── Relatorio_Grupo7.pdf

@@ -1,0 +1,11 @@
+A_droptail: conservação UDP confirmada (33756 pacotes gerados).
+A_red: conservação UDP confirmada (33756 pacotes gerados).
+B_misto: conservação UDP confirmada (11778 pacotes gerados).
+B_referencia: conservação UDP confirmada (11778 pacotes gerados).
+C4_abuso: conservação UDP confirmada (28128 pacotes gerados).
+C4_livre: conservação UDP confirmada (18752 pacotes gerados).
+C4_normal: conservação UDP confirmada (33756 pacotes gerados).
+C_diffserv: conservação UDP confirmada (33756 pacotes gerados).
+Capacidade das quatro interfaces respeitada nas médias.
+Relatório sem marcadores pendentes.
+C.4: quotas >= 1,5 Mbps, empréstimo até 5 Mbps e ausência de descartes conformes confirmados nos ensaios.

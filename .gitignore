@@ -1,0 +1,28 @@
+# Ambientes instalados, caches e configurações locais.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.DS_Store
+*~
+
+# Ficheiros temporários da compilação; manter o relatório final e os seus fontes.
+relatorio/*.aux
+relatorio/*.log
+relatorio/*.out
+relatorio/*.toc
+relatorio/*.xdv
+relatorio/*.synctex.gz
+relatorio/*.fls
+relatorio/*.fdb_latexmk
+relatorio/main.pdf
+
+# Arquivos de distribuição e material privado não pertencem ao repositório.
+*.zip
+manual-privado/
+manual_privado/
+arquivo-local/
+
+# Os traces, CSV, figuras e logs experimentais fazem parte da entrega.
