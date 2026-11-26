@@ -6,10 +6,6 @@ Neste trabalho usámos o NS-2 para estudar o que acontece quando vários cliente
 
 Testámos tráfego CBR, FTP e voz. No total, corremos oito cenários com cinco sementes diferentes, ou seja, 40 simulações. Os resultados e a análise estão no [relatório](Relatorio_Grupo7.pdf).
 
-## Ficheiro para submeter no Blackboard
-
-[Descarregar QoSI_TP4_Grupo7.zip](https://github.com/Andrebottari/qosi-tp4-2026-2027/releases/download/entrega-tp4/QoSI_TP4_Grupo7.zip)
-
 ## Organização
 
 ```text
